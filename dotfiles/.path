@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Add `~/bin` to the `$PATH`
+export PATH="$HOME/bin:$PATH";
+
+# Add /usr/local/bin to $PATH
+export PATH="/usr/local/bin/:$PATH"
+
+# Add VS Code to PATH
+export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"

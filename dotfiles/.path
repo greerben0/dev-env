@@ -8,3 +8,6 @@ export PATH="/usr/local/bin/:$PATH"
 
 # Add VS Code to PATH
 export PATH="/Applications/Visual Studio Code.app/Contents/Resources/app/bin:$PATH"
+
+# Add Python libs to PATH
+export PATH="/Users/bengreer/Library/Python/3.7/bin:$PATH"

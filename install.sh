@@ -31,6 +31,19 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 # install z
 git clone --depth 1 https://github.com/rupa/z.git ~/z
 
+#install nvm 
+https://github.com/creationix/nvm#manual-install
+
+#install npm
+nvm install-latest-npm
+
+#install awscli
+pip install awscli
+
+#install localstack 
+# https://github.com/localstack/localstack
+pip install --user localstack
+
 ## APPLICATIONS ##
 
 # install iterm2
@@ -49,8 +62,6 @@ mv iTerm.app ~/Applications/
 
 
 # install sublime
-http://www.sublimetext.com/3
+# http://www.sublimetext.com/3
 
 # install slack
-
-

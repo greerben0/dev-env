@@ -48,6 +48,9 @@ pip install --user localstack
 # install terraform
 brew install terraform
 
+# install tree
+brew install tree
+
 ## APPLICATIONS ##
 
 # install iterm2

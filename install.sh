@@ -1,4 +1,5 @@
 #!/bin/bash
+>&2 echo "Don't just run this! Read the commands and run what you want/need"
 exit(1)
 
 # cp dotfiles
@@ -38,11 +39,14 @@ https://github.com/creationix/nvm#manual-install
 nvm install-latest-npm
 
 #install awscli
-pip install awscli
+# pip install awscli
 
 #install localstack 
 # https://github.com/localstack/localstack
 pip install --user localstack
+
+# install terraform
+brew install terraform
 
 ## APPLICATIONS ##
 

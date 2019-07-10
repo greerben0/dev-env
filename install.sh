@@ -79,4 +79,8 @@ mv iTerm.app ~/Applications/
 # install sublime
 # http://www.sublimetext.com/3
 
+# Symlink sublime to be launched from terminal
+ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+
+
 # install slack

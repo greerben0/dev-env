@@ -19,6 +19,11 @@ brew install wget
 brew install git
 brew link --force git
 
+# install git_lfs
+# https://git-lfs.github.com/
+brew install git-lfs
+git lfs install
+
 # install python3
 brew install python
 
@@ -50,6 +55,9 @@ brew install terraform
 
 # install jq
 brew install jq
+
+# install tree
+brew install tree
 
 ## APPLICATIONS ##
 

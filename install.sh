@@ -63,7 +63,7 @@ brew install tree
 
 # install iterm2
 # https://www.iterm2.com/
-ITERM_VERSION=iTerm2-3_2_5.zip
+ITERM_VERSION=iTerm2-3_2_9.zip
 wget https://iterm2.com/downloads/stable/$ITERM_VERSION
 unzip $ITERM_VERSION
 mv iTerm.app ~/Applications/

@@ -1,3 +1,7 @@
+#!/bin/bash
+>&2 echo "Don't just run this! Read the commands and run what you want/need"
+exit(1)
+
 # Disable smart quotes as they’re annoying when typing code
 defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
 

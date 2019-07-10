@@ -53,6 +53,9 @@ pip install --user localstack
 # install terraform
 brew install terraform
 
+# install jq
+brew install jq
+
 # install tree
 brew install tree
 
